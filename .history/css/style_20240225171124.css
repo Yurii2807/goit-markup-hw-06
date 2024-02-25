@@ -201,7 +201,7 @@ h6 {
     background-size: cover;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
      rgba(46, 47, 66, 0.7)), 
-     url(../images/dark-bg_1x.jpg);
+     url(../images/dark-bg.jpg);
 }
 @media screen and (min-device-pixel-ratio: 2),
 (min-resolution: 192dpi),
@@ -209,7 +209,7 @@ h6 {
     .section-one {
     background-image: linear-gradient(rgba(46, 47, 66, 0.70),
      rgba(46, 47, 66, 0.70)),
-      url(../images/dark-bg.jpg);
+      url(../images/tablet-hero_2x.jpg);
     }
 }
 
@@ -251,9 +251,7 @@ h6 {
 @media screen and (min-width:768px) {
     
     .section-one {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.70),
-         rgba(46, 47, 66, 0.70)),
-          url(../images/dark-bg_2x.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/dark-bg_2x.jpg);
         padding-top: 110px;
         padding-bottom: 110px;
         max-width: 768px;
@@ -262,9 +260,7 @@ h6 {
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
     .section-one {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.70),
-         rgba(46, 47, 66, 0.70)),
-          url(../images/dark-bg.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/dark-bg_2x.jpg);
             }
         }
         .solutions{
@@ -281,7 +277,7 @@ h6 {
             padding-bottom: 188px;
             background-image: linear-gradient(rgba(46, 47, 66, 0.70),
              rgba(46, 47, 66, 0.70)),
-              url(../images/dark-bg.jpg);
+              url(../images/people-office.jpg);
         }
         @media screen and (min-device-pixel-ratio: 2),
         (min-resolution: 192dpi),
@@ -289,7 +285,7 @@ h6 {
     .section-one {
         background-image: linear-gradient(rgba(46, 47, 66, 0.70),
          rgba(46, 47, 66, 0.70)),
-          url(../images/tablet-hero2x.jpg);
+          url(../images/people-office.jpg);
             }
         }
         .solutions {
