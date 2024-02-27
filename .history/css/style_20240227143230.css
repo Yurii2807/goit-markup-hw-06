@@ -1347,7 +1347,7 @@ li {
 .icon-list {
 }
 .menu-icon-list {
-    gap: 40px;
+    gap: 30px;
     display: flex;
 }
 .icon-item {

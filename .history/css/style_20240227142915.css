@@ -1347,7 +1347,7 @@ li {
 .icon-list {
 }
 .menu-icon-list {
-    gap: 40px;
+    gap: 30px;
     display: flex;
 }
 .icon-item {
@@ -1370,25 +1370,6 @@ li {
     height: 16px;
 }
 .css-0 {
-}
-#tooltip-mount-layer-companion {
-    z-index: 2147483646;
-    position: relative;
-    color: var(--lns-color-body);
-    pointer-events: auto;
-}
-<style>
-#inner-shadow-companion * {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    letter-spacing: calc(0.6px - 0.05em);
-}
-<style>
-#inner-shadow-companion *, #inner-shadow-companion *:before, #inner-shadow-companion *:after {
-    box-sizing: border-box;
-}
-div {
-    display: block;
 }
 .companion-1b6rwsq {
 }
