@@ -932,8 +932,7 @@ gap: 72px;
             margin-left: 0;
         }    
         .email-btn {
-            margin-left: auto;
-            gap: 24px;
+            /* margin-left: auto; */
         }
         /* .menu-container {
             display: none;
